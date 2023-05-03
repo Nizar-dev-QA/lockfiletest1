@@ -9,7 +9,7 @@
   },
   "require": {
     "php": "7.1",
-    "slim/slim": "^4.0",
+    "slim/slim": "^3.12",
     "zendframework/zend-inputfilter": "2.7",
     "symfony/yaml": "3.1"
   },
