@@ -1055,6 +1055,7 @@
                 "test",
                 "web"
             ],
+            "abandoned": "friends-of-behat/mink-extension",
             "time": "2018-02-06T15:36:30+00:00"
         },
         {
@@ -1110,6 +1111,7 @@
                 "headless",
                 "testing"
             ],
+            "abandoned": "behat/mink-browserkit-driver",
             "time": "2016-03-05T09:04:22+00:00"
         },
         {
